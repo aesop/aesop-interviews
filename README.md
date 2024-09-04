@@ -1,7 +1,6 @@
 # Aesop Interviews 
 
-This project is a schedule that calls jsonplaceholder.com/posts and adds each post to an SQS queue. Messages are processed and a file put into an S3 bucket.
-When all files have been saved to the bucket a message is published to an SNS topic.
+TBD
 
 ## Development
 
